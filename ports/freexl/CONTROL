@@ -1,0 +1,5 @@
+Source: freexl
+Version: 1.0.4
+Description:
+Build-Depends: libiconv
+

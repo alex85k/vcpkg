@@ -1,0 +1,4 @@
+Source: libspatialite
+Version: 4.3.0a
+Description:
+Build-Depends: libxml2, sqlite3, geos
